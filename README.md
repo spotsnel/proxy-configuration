@@ -15,4 +15,4 @@ Proxy client packages for Fedora/EL are available here:
 
 ### Related
   * [dotfiles](https://github.com/gbraad/dotfiles)
-  * [devenv](https://github.com/gbraad/devenv/).)
+  * [devenv](https://github.com/gbraad/devenv/)
