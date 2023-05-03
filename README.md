@@ -6,12 +6,13 @@ For use with SOCKS5 as provided by [`tailproxy`](https://github.com/gbraad/dotfi
 
 ### Usage
 To run a server, consider the following:
-  * https://github.com/spotsnel/tailscale-tailwings
-  * https://github.com/spotsnel-fedora/dante-packages (`dante` and `dante-server`)
+  * [tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings), self-contained proxy server for use with tailscale
+  * [Dante server](https://github.com/spotsnel-fedora/dante-packages), `dante` and `dante-server` packages needed
 
 Proxy client packages for Fedora/EL are available here:
-  * https://github.com/spotsnel-fedora/dante-server-packages (`dante` is the client library)
-  * https://github.com/spotsnel-fedora/tsocks-packages
+  * [`socksify`](https://github.com/spotsnel-fedora/dante-packages), part of the `dante` client library
+  * [toscks](https://github.com/spotsnel-fedora/tsocks-packages), a transparent SOCKS proxying library
+
 
 ### Related
   * [dotfiles](https://github.com/gbraad/dotfiles)
