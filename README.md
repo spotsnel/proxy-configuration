@@ -1,7 +1,7 @@
 Proxy configuration files
 =========================
 
-For use with my [`tailproxy`](https://github.com/gbraad/dotfiles/blob/main/zsh/.local/bin/start-tailproxy) command as used in [dotfiles](https://github.com/gbraad/dotfiles) and [devenv](https://github.com/gbraad/devenv/).
+For use with my [`tailproxy`](https://github.com/gbraad/dotfiles/blob/main/zsh/.local/bin/start-tailproxy) or [`ssh`-based proxy](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/alias.zsh) command as used in [dotfiles](https://github.com/gbraad/dotfiles) and [devenv](https://github.com/gbraad/devenv/).
 
 
 ### Usage
