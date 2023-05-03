@@ -11,7 +11,7 @@ To run a server, consider the following:
 
 Proxy client packages for Fedora/EL are available here:
   * [`socksify`](https://github.com/spotsnel-fedora/dante-packages), part of the `dante` client library
-  * [toscks](https://github.com/spotsnel-fedora/tsocks-packages), a transparent SOCKS proxying library
+  * [tsocks](https://github.com/spotsnel-fedora/tsocks-packages), a transparent SOCKS proxying library
 
 
 ### Related
