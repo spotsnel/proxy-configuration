@@ -8,6 +8,7 @@ For use with SOCKS5 as provided by [`tailproxy`](https://github.com/gbraad/dotfi
 To run a server, consider the following:
   * [tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings), self-contained proxy server for use with tailscale
   * [Dante server](https://github.com/spotsnel-fedora/dante-packages), `dante` and `dante-server` packages needed
+  * [ssh-based](https://github.com/gbraad/dotfiles/blob/8eeb1ee5f4dd6fddc5351bc47be3e3667ad58811/zsh/.zshrc.d/alias.zsh#L14-L15), using the `-D` option
 
 Proxy client packages for Fedora/EL are available here:
   * [`socksify`](https://github.com/spotsnel-fedora/dante-packages), part of the `dante` client library
